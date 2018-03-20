@@ -1,3 +1,6 @@
+
+  <script>
+//<![CDATA[
 function myFunction1() {
    var element = document.getElementById("side-bar");
    element.classList.toggle("mystyle");
@@ -6,3 +9,19 @@ function myFunction1() {
   var body = document.body;
   body.classList.toggle("flow");
 }
+//]]>
+</script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
